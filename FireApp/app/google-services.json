@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "840547239535",
+    "firebase_url": "https://fireapp-4a552.firebaseio.com",
+    "project_id": "fireapp-4a552",
+    "storage_bucket": "fireapp-4a552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840547239535:android:e0803ecf0e8f8d80",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840547239535-f5ldbgmt527hslq9npn5s1d4doism7of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-00CfPFhTEMyJNSvPhodD-y_MqQZIzpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

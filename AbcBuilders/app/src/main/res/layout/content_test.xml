@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.lenovo.abcbuilders.Test"
+    tools:showIn="@layout/activity_test">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+
+
+        <ImageView
+            android:layout_width="103dp"
+            android:layout_height="117dp"
+            app:srcCompat="@drawable/kunal"
+            android:id="@+id/imageView6" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of PropertiesNice Price of Properties Nice Price of Properties "
+            android:layout_margin="5dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+
+
+        <ImageView
+            android:layout_width="103dp"
+            android:layout_height="117dp"
+            app:srcCompat="@drawable/kunal"
+            android:id="@+id/imageView22" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of PropertiesNice Price of Properties Nice Price of Properties "
+            android:layout_margin="5dp"/>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+
+            <ImageView
+                android:layout_width="103dp"
+                android:layout_height="117dp"
+                app:srcCompat="@drawable/kunal"
+                android:id="@+id/imageView2222" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of PropertiesNice Price of Properties Nice Price of Properties "
+                android:layout_margin="5dp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+
+            <ImageView
+                android:layout_width="103dp"
+                android:layout_height="117dp"
+                app:srcCompat="@drawable/kunal"
+                android:id="@+id/imageView222" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of Properties Nice Price of PropertiesNice Price of Properties Nice Price of Properties "
+                android:layout_margin="5dp"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" >
+        <item android:title="Nutrients">
+        <menu>
+        <item
+            android:id="@+id/protein"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Proteins" />
+        <item
+            android:id="@+id/vitamin"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Vitamins" />
+        <item
+            android:id="@+id/mineral"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Minerals" />
+        <item
+            android:id="@+id/fat"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Fats" />
+        </menu>
+        </item>
+    </group>
+
+    </menu>
